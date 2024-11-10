@@ -163,3 +163,18 @@
 @@|yewtu.be^$important
 @@|youtube-dl.org^$important
 @@|youtube-nocookie.com^$important
+@@|disneyplus.com^$important
+@@|bam.nr-data.net^$important
+@@|cdn.registerdisney.go.com^$important
+@@|cws.conviva.com^$important
+@@|d9.flashtalking.com^$important
+@@|disney-portal.my.onetrust.com^$important
+@@|disneyplus.bn5x.net^$important
+@@|js-agent.newrelic.com^$important
+@@|disney-plus.net^$important
+@@|dssott.com^$important
+@@|adobedtm.com^$important
+@@| sledovani.tv^$important
+@@|188.246.119.1^$important
+@@|188.246.119.2^$important
+@@|188.246.119.3^$important
